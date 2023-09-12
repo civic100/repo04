@@ -54,4 +54,27 @@ Mi primer ejercico con ramas
     
 ![❌ Error ❌](./img/Captura5.JPG "New repository")
 
-*  4.6.2 – Haz un push hacía la nube
+*  4.6.2 – Haz un push hacía la nube    
+
+    Devemos guardar con add README.md y hacer un commit desde main antes de hacer el push para tener todos los cambios hasta el momento.
+
+![❌ Error ❌](./img/Captura6.JPG "New repository")
+***
+### 4.7 – Elimina solamente la rama en local david02032022 ya que si eliminásemos la remota no veríamos la rama en remoto.
+
+    Eliminar rama desde local:
+    $ git branch -d "nombre de la rama"
+
+![❌ Error ❌](./img/Captura7.JPG "New repository")
+
+***
+### 4.8 - Visualiza el resultado tanto mediante el comando git log --all --oneline -decorate –graph, como desde el pluging de VSC
+
+* Usando el comando:   
+  $ git log --all --oneline --decorate --graph 
+![❌ Error ❌](./img/Captura8.JPG "New repository")
+
+* Usando el pluging: 
+![❌ Error ❌](./img/Captura9.JPG "New repository")
+
+***
