@@ -13,7 +13,7 @@ Creamos el repositorio desde [GitHub](https://github.com/ "https://github.com")
 
 ### 4.2 – Añade un fichero readme.md vacío al repositorio local, ejecuta los comandos pertinentes para realizar un commit y finalmente, sube los cambios al repositorio remoto que tendrá el mismo nombre repo04.
 
-    Crear un README.md vacio:  
+    Crear un README.md vacío:  
     $ echo "" >> README.md
     
     Comandos para realizar commit y push:
@@ -26,7 +26,7 @@ Creamos el repositorio desde [GitHub](https://github.com/ "https://github.com")
 
 ### 4.3 – Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) desde la cual editaremos el fichero
 
-    Creacion de una nueva rama:
+    Creación de una nueva rama:
     $ git branch "nombre de la rama"
 
     Listar ramas:
@@ -40,7 +40,7 @@ Creamos el repositorio desde [GitHub](https://github.com/ "https://github.com")
 
 # Repo04 
 ***
-Mi primer ejercico con ramas
+Mi primer ejercicio con ramas
 
 ***
 ### 4.5 – Haz 3 commits desde nuestra rama (david02032022)
@@ -56,7 +56,7 @@ Mi primer ejercico con ramas
 
 *  4.6.2 – Haz un push hacía la nube    
 
-    Devemos guardar con add README.md y hacer un commit desde main antes de hacer el push para tener todos los cambios hasta el momento.
+    Debemos guardar con add README.md y hacer un commit desde main antes de hacer el push para tener todos los cambios hasta el momento.
 
 ![❌ Error ❌](./img/Captura6.JPG "New repository")
 ***
