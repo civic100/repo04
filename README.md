@@ -50,7 +50,8 @@ Mi primer ejercico con ramas
 
 ### 4.6 – En el siguiente orden realiza lo siguiente:
 *  4.6.1 – Fusiona tu rama con master   
-    Primero pasamos a la rama "main":
+    Primero pasamos a la rama "main" y luego realizamos el $ git merge "nombre de la rama"
     
+![❌ Error ❌](./img/Captura5.JPG "New repository")
 
 *  4.6.2 – Haz un push hacía la nube
