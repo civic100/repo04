@@ -41,4 +41,16 @@ Creamos el repositorio desde [GitHub](https://github.com/ "https://github.com")
 # Repo04 
 ***
 Mi primer ejercico con ramas
+
 ***
+### 4.5 – Haz 3 commits desde nuestra rama (david02032022)
+![❌ Error ❌](./img/Captura4.JPG "New repository")
+
+***
+
+### 4.6 – En el siguiente orden realiza lo siguiente:
+*  4.6.1 – Fusiona tu rama con master   
+    Primero pasamos a la rama "main":
+    
+
+*  4.6.2 – Haz un push hacía la nube
